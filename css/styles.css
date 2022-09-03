@@ -1,0 +1,45 @@
+body{
+    font-family: 'DynaPuff', sans-serif;
+    min-height: 100vh;
+}
+
+
+
+/*===============
+ESTILOS RECOMENDACIONES
+=================*/
+.section-background{
+    
+    background-color: #2b9eb3;
+}
+
+.decoration-link{
+    color: white;
+}
+
+.links{
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+.links:hover{
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3%);
+    color: white;
+}
+
+
+
+.color-b{
+    color: black;
+}
+
+
+
+.bordes-derecha{
+    border-top: 15px solid orange;
+}
